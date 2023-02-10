@@ -3,7 +3,7 @@
 The basic implementation to interact with the local Wechat server.
 
 ## Requirements
-This client reqires installing thee following Python Libraries:
+This client reqires installing the following Python Libraries:
 - websocket-client
 - rel
 - sqlite3
