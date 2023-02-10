@@ -1,2 +1,5 @@
 # windbot-base
-Basic structure of WindBot
+
+The basic implementation to interact with the server.
+
+
